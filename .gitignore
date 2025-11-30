@@ -5,7 +5,7 @@
 .vscode/
 
 # Rust
-/target/
+**/target/**
 
 # Env
 .env
